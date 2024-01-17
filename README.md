@@ -21,11 +21,11 @@ This animated portfolio project, created by Rowdy_Code, showcases skills, projec
 - HTML5
 - CSS3
 - JavaScript
-- [Library/Framework used for animations, e.g., GSAP](https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.4/gsap.min.js)
+- [GSAP](https://cdnjs.com/libraries/gsap)
 
 ## Getting Started
 
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/RowdyCode/animated-protfolio
